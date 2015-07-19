@@ -1,0 +1,1 @@
+Whese codes were write by C++. It shows how to use design patters using C++.
